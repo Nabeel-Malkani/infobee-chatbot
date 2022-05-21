@@ -1,0 +1,408 @@
+Your symptoms are Stopped Growth ( :--><br>
+Possible diseases are 'Growth Disorder or Turner Syndrome',<br>
+Analgesics are 'Thyroid hormone pills, growth hormone injections',<br>
+Treatment scans are 'Bone Age Xray, MRI scan',<br>
+Follow this diet 'Meat, Seafood, Leafygreens, Diary, Spinach, Beef'<br>
+
+.
+
+Ap ki alaamat hain : Growth Rukna, qad na barhna<br>
+Tashkhees: 'Growth Disorder, Turner Syndrome',<br>
+Ilaaj: 'Thyroid hormone ki goliyan , growth injection',<br>
+Ilaaj k liye tests: 'Haddiyon ka XRAY , MRI ',<br>
+Khoraak : 'Gosht, Samundari ghaza ( machli) , Patton wali sabziyan Paalak , Gaye ka gosht'<br>
+
+.
+
+
+Your symptoms are Wheezing, Coughing and troubled breathing,chest pain<br>
+--> Predicted disease is Asthma;<br>
+Analgesics are Metered dose inhalers, nebulizers;<br>
+Treatment scans are Asthma therapy;<br>
+Follow this diet Fruits and vegetables<br>
+
+
+Ap ki alaamat hain : Ghargharahat, khansi , saans rukna, seenay ka dard  --><br>
+Tashkhees : 'Ashthma',<br>
+Adwiyaat: 'inhaler, nebulizers',<br>
+Ilaaj : 'Asthma Therapy',<br>
+Khoraak : 'Phal or Sabziyan'<br>
+
+.
+
+
+
+Your symptoms are Self-destructiveness, sadness and being upset--><br>
+Predicted disease is 'Depression',<br>
+Analgesics are 'Prozac, Zoloft or Celexa',<br>
+Treatment scans are 'Constantly praise him, teach skills, and give self-development talks',<br>
+ Follow this diet 'Fish and whole grains'<br>
+
+.
+
+Ap ki alaamat hain : udasi, udas rehna, pareshani, ghabrahat   --><br>
+Tashkhees : 'Depression (Zehni Dabao)',<br>
+Adwiyaat : 'Prozac, Celexa',<br>
+Ilaaj : 'Samaaji Rabt,Akela Na rehna, Hunnar seekhna, Masroof Rehna '<br>
+Khoraak : 'Machli or Anaaj'<br>
+
+.
+
+Your symptoms are Palpitations, sweating and nausea--><br>
+Predicted disease is 'Anxiety Disorder',<br>
+Analgesics are ,<br>
+Treatment scans are ,<br>
+ Follow this diet ''<br>
+
+.
+
+Your symptoms are Fever,fever up to 102f, Tiredness or Loss of Appetite--><br>
+Predicted disease is'Chickenpox',<br>
+Analgesics are 'Acetaminophen',<br>
+Treatment scans are 'lukewarm bath and apply calamine lotion to itchy areas',<br>
+Follow this diet 'Raw fruits, Vegetables, Meat, Pastured eggs and avoid salty foods'<br>
+
+.
+Ap ki alaamat hain : bukhar 102, bhook ki kami, musalsal Bukhar   -->
+Tashkhees : 'Khasraa',<br>
+Adwiyaat : 'Acetaminophen',<br>
+Ilaaj : 'Garm hamaam, calamine lotion ka istemal '<br>
+Khoraak : 'Namkeen cheezon se perhez, phal or sabziyn, Gosht, Anday '<br>
+
+.
+
+Your symptoms are easy tiredness and overweight--><br>
+Predicted disease is'Obesity',<br>
+Analgesics are 'Not suggested to take analgesics for obesity',<br>
+Treatment scans are 'building heathy eating ang drinking habits and physical activities like exercise',<br>
+Follow this diet 'Fruits and vegetables, and avoid skipping breakfast'<br>
+
+
+Ap ki alaamat hain : thakna, wazan ka ziada hona, jaldi thakawat   --><br>
+Tashkhees : 'Motapa or charbi ka shikaar',<br>
+Ilaaj : 'Achi or sehatmand khoraak ka istemal, jismani sargarmiyan, warzish'<br>
+Khoraak : 'phal or sabziyan, nashta karna, meethi chez se perhez '<br>
+
+ .
+
+Your symptoms are Severe tooth ache--><br>
+Predicted disease is'Cavities\r\n',<br>
+Analgesics are  'Ibuprofen or Aspirin',<br>
+Treatment scans are 'Fluoride toothpaste',<br>
+Follow this diet 'juices and avoid sweets, chocolates and unhealthy snacks'<br>
+
+.
+Ap ki alaamat hain : Dant me dard, Dant me keera,danton ka kharab hona, danton ka dard    --><br>
+Tashkhees : 'Cavities ',<br>
+Adwiyaat : 'Aspirin , pain killer'<br>
+Ilaaj : 'Danton ki dawai ka istemal'<br>
+Khoraak : 'thandi or meethi chezon se perhez'<br>
+
+
+.
+
+Your symptoms are Often urinating, slow healing of bruises, weightloss--><br>
+Predicted disease is 'Diabetes',<br>
+Analgesics are 'Tylenol or Aspirin',<br>
+Treatment scans are 'Insulin Treatment',<br>
+Follow this diet 'Brown rice or cereals with two eggs daily'<br>
+.
+
+Ap ki alaamat hain : peshab ana, chota peshab ziada ana, chota peshab ana,zakham ka theak na hona, zakham ka na bharna, wazan ki kami , wazan kam hona     --><br>
+Tashkhees : 'Ziabetes ( Shoogar) ',<br>
+Adwiyaat : 'Tylenol, Aspirin'<br>
+Ilaaj : 'Insulin ka istemaal, Pedal chalna'<br>
+Khoraak : 'Khichri or anaaj ka istemal, meethi chezon se perhez'<br>
+
+ .
+
+
+Your symptoms are High body temperature, severe headache and tiredness<br>
+Predicted disease is 'High Fever'<br>
+Analgesics are 'Paracetemol or Panadol'<br>
+Treatment scans are 'Tylenol, Ibuprofen to treat stomach irritation'<br>
+Follow this diet 'fluid intake like gatorage, fruitjuices or milk'
+.
+Ap ki alaamat hain : sar dard, thakawat, tez bukhar <br>
+Tashkhees : 'Bukhaar'<br>
+Adwiyat: 'Paracetemol or Panadol'<br>
+Ilaj: 'Tylenol, Ibuprofen Meday k jalan k liye'<br>
+Khoraak : 'Fluid Istemal kijiye, Fruitjuices or Dhoodh piyen
+
+.
+
+Your symptoms are Depression, Eating Disorders, Addiction--><br>
+Predicted disease is  'Drug or Smoke or Alcohol Addiction',<br>
+Analgesics are  'Baclofen, Gebapentin',<br>
+Treatment scans are 'Visiting Rehabilitation Centers, Help teens choose good friends and learn to say NO',<br>
+Follow this diet 'Green leafy vegetables'<br>
+
+.
+
+Ap ki alaamat hain : Zehni tanao, zehni uljhan, khanay ka masla  --><br>
+Tashkhees : 'Nashaa,  Sharaab ka aadi',<br>
+Adwiyat: 'Baclofen, Gebapentin',<br>
+ Ilaj: 'Rehab Centre jana, apni company achi rakhni, nashay se door rehna',<br>
+Khoraak : 'Paton wali sabziyan istemal karna'<br>
+
+ .
+
+
+Your symptoms are Swelling, irritation, breast or nipple pain--><br>
+Predicted disease is 'Breast Cancer',<br>
+Analgesics are 'Tamoxifen',<br>
+Treatment scans are 'heart-smart diet and indulge in physical activity and avoid smoking',<br>
+Follow this diet 'whole grains, beans, legumes'<br>
+
+.
+
+Ap ki alaamat hain : Chest ka phoolna, nipple me dard, chaati ka dard, chati me jalan   --><br>
+Tashkhees : 'Chaati ka Sartaan',<br>
+Adwiyat: 'Tamoxifen',<br>
+ Ilaj: 'Cigarrete k istemal se perhez, warzish or diet ka khyal rakhna',<br>
+Khoraak : 'phaliyan, anaaj'<br>
+
+ .
+
+Your symptoms are Sudden Confusion, Dizziness, Loss of Balance--><br>
+Predicted disease is  'Stroke',<br>
+Analgesics are  'Anti-platelet drugs like Plavix',<br>
+Treatment scans are 'Clot-bursting therapy',<br>
+Follow this diet 'Fruits and Vegetables, and avoid salt'<br>
+.
+
+Ap ki alaamat hain : Achanak Uljhan, Chakar , chakar aana, tawazun khona    --><br>
+Tashkhees : 'Dora, Faalaj ka dora',<br>
+Adwiyat: 'Plavix',<br>
+ Ilaj: 'Clot-bursting therapy',<br>
+Khoraak : 'sabzi or phal ka istemal, namak se perhez'<br>
+
+ .
+
+
+Your symptoms are Shortness of breath, or being inactive--><br>
+Predicted disease is 'COPD Chronic obstructive pulmonary disease',<br>
+Analgesics are 'Tudorza or Brovana',<br>
+Treatment scans are 'Inhalers and oral steroids',<br>
+Follow this diet 'Eggs, Cheese, Meat, fish, and Poultry'<br>
+.
+
+Ap ki alaamat hain : Sans ki kami, sans rukna,fatigue, hont neelay hona    --><br>
+Tashkhees : 'COPD COPD Chronic obstructive pulmonary disease',<br>
+Adwiyat: 'Brovana , Tudorza',<br>
+ Ilaj: 'Inhaler, nebulizer',<br>
+Khoraak : 'Anday, paneer, gosht, machli ka istemal'<br>
+
+
+  .
+
+Your symptoms are Forgetfulness or Confusion--><br>
+Predicted disease is 'Alzheimer\'s disease',<br>
+Analgesics are 'Aricept or Exelon',<br>
+Treatment scans are 'MRI and CT scans',<br>
+Follow this diet 'berries, beans and whole grains'<br>
+
+.
+
+Ap ki alaamat hain : Uljhan, bhool jana, kuch yad na rehna, bhoolna    --><br>
+Tashkhees : 'Alzheimer',<br>
+Adwiyat: 'Aricept , Exelor',<br>
+ Ilaj: 'CT scan, MRI',<br>
+Khoraak : 'Anaaj or phaliyon ka istemaal'<br>
+
+.
+
+Your symptoms are Chest pain, confusion, cough or fatigue--><br>
+Predicted disease is 'Pneumonia or Influenza',<br>
+Analgesics are 'Levofloxacin',<br>
+Treatment scans are 'Plenty of fluids and get lot of rest',<br>
+Follow this diet 'Citrus fruits, Oily fish and Leafy greens'<br>
+.
+
+Ap ki alaamat hain : chati ka dard, seenay ka dard, khansi or fatigue    --><br>
+Tashkhees : 'Pneumonia',<br>
+Adwiyat: 'Levofloxacin',<br>
+ Ilaj: 'Mashroobat ka istemal, Araam',<br>
+Khoraak : 'Khatta phal (lemon), machli, paton wali sabzi ka istemal'<br>
+
+
+.
+
+Your symptoms are reduced urine, swelling of legs or fatigue--><br>
+Predicted disease is 'Kidney Disease',<br>
+Analgesics are 'Naproxen or Ibuprofen',<br>
+Treatment scans are 'Dialysis',<br>
+Follow this diet 'Berries, bell peppers, onions and apples'<br>
+
+.
+
+Ap ki alaamat hain : peshab ki kami, peshab kam ana, chotay peshab ki kami, tangon ki sojan or fatigue    --><br>
+Tashkhees : 'Gurday  ki bemaari',<br>
+Adwiyat: 'Naproxen',<br>
+ Ilaj: 'Dialysis',<br>
+Khoraak : 'bair , kaali mirch, piyaaz or saib ka istemal'<br>
+
+
+.
+
+
+Your symptoms are Fragile bones--><br>
+Predicted disease is 'Brittle bone disease',<br>
+Analgesics are 'Biphosphonates, calcium and vitamin D supplements',<br>
+Treatment scans are  'VitaminD supplements and avoid smoking and alcohol',<br>
+Follow this diet 'fruits and foods high on calcium'<br>
+.
+
+Ap ki alaamat hain : Nazuk haddi, nazuk hadiyan, kamzor hadiyan    --><br>
+Tashkhees : 'Haddiyon ki bemari',<br>
+Adwiyat: 'Biphosphonates, calcium and vitamin D supplements',<br>
+ Ilaj: 'Cigarrete or sharaab noshi se perhez',<br>
+Khoraak : 'Phal or Calcium waly khanon ka istemal'<br>
+
+
+ .
+
+
+Your symptoms are Skin wrinkles and aging--><br>
+Predicted disease is 'No disease',<br>
+Analgesics are 'Anti-aging creams',<br>
+Treatment scans are  'Blepharoplasty surgery to get rid of aging',<br>
+Follow this diet 'Berries, Broccoli, Papaya, Spinach, Nuts and Avocadon'<br>
+
+.
+
+Ap ki alaamat hain : jhuriyan, jild ki jhuriyan, borhapa    --><br>
+Tashkhees : 'Borhapa',<br>
+Adwiyat: 'Anti aging Creams',<br>
+ Ilaj: 'Blepharoplasty surgery',<br>
+Khoraak : 'Bair , papita, paalak, phaliyon , mewon ka istemaal'<br>
+
+
+ .
+
+Your symptoms are Blurry and loss of vision--><br>
+Predicted disease is  'Mascular Degeneration',<br>
+Analgesics are  'Lucentis or Macugen',<br>
+Treatment scans are  'Regular exercise and avoid smoking',<br>
+Follow this diet 'Fish and vegetables'<br>
+.
+Ap ki alaamat hain : Nazr kam hona, nazar khatam hona, andhapan, dhundlahat   --><br>
+Tashkhees : 'Pathon ki bemaari',<br>
+Adwiyat: 'Lucentis or macugen',<br>
+ Ilaj: 'Baqaida warzish, cigarette se perhez',<br>
+Khoraak : 'Sabzi or machli ka istemaal'<br>
+.
+
+
+
+Your symptoms are Blood pressure reading 140 or higher--><br>
+Predicted disease is 'High blood pressure',<br>
+Analgesics are 'Thiazide diuretics',<br>
+Treatment scans are 'Physical activity like exercise and avoid smoking and srinking'<br>
+Follow this diet 'low-fat diary, whole grains and Fruits'<br>
+.
+Ap ki alaamat hain : Blood pressure, Bp high   --><br>
+Tashkhees : 'Blood Pressure ki bemaari',<br>
+Adwiyat: 'Thiazide diuretics',<br>
+ Ilaj: 'Warzish, cigarrete se perhez, zehni skoon',<br>
+Khoraak : 'kam charbi walay khanay ka istemal, phal or anaaj ka istemaal'<br>
+ .
+
+Your symptoms are Trouble sleeping or sleep, mood swings, vaginal dryness--><br>
+Predicted disease is 'Menopause',<br>
+Analgesics are 'Isoflav capsules',<br>
+Treatment scans are  'Estrogen levels test',<br>
+Follow this diet 'Fish, Fruits, Vegetables and Diary'<br>
+
+.
+Your symptoms are abdominal cramps , diarrhea , nausea , vomiting , loss of appetite, mild fever, weakness<br>
+Predicted disease is 'Food Poisoning',<br>
+Analgesics are 'bismuth subsalicylate (Pepto-Bismol), loperamide (Imodium)',<br>
+
+Follow this diet 'cereal, bananas, egg whites, gelatin, oatmeal, plain potatoes, rice'<br>
+.
+
+Ap ki alaamat hain : Pait me dard, pait me maroor, ishaal, bhook me kami, halka bukhar, kamzori --><br>
+Tashkhees : 'Food Poisoning',<br>
+Adwiyat: 'bismuth subsalicylate (Pepto-Bismol), loperamide (Imodium)',<br>
+Khoraak : 'dudh ki bani chezain, kelal, anday, oblay aaloo, khichri '<br>
+
+
+.
+
+
+
+Ap ki alaamat hain : Neend na ana, kam sona, moody,mood ki tabdeeli,andam nehani ki khushki, sharmgaah ki khushki    --><br>
+Tashkhees : 'Menopause ( Menses ka ruk jana)',<br>
+Adwiyat: 'Isoflav',<br>
+ Ilaj: 'Estrogen test',<br>
+Khoraak : 'Machli , phal or sabzi  , doodh ka istemal'<br>
+
+ .
+
+Your symptoms are Cold, Allergies, Nasal problems--><br>
+Predicted disease is  'Sinusitis',<br>
+Analgesics are 'Acetaminophen or Nasal spray',<br>
+Treatment scans are  'Antibiotics like Aspirin and Nasal sprays',<br>
+Follow this diet 'Salmon, Avocados, Cherries and Bean'<br>
+.
+Ap ki alaamat hain : sardi, allergy , naak ka masla, nak me sozish    --><br>
+Tashkhees : 'Sinusitis ( Naak ki allergy)',<br>
+Adwiyat: 'Naak ka spray',<br>
+ Ilaj: 'Antibiotics ka istemaal',<br>
+Khoraak : 'Phaliyon or Anaaj ka istemal'<br>
+
+.
+
+
+Your symptoms are Pain while urine and ejaculation--><br>
+Predicted disease is 'Prostate Cancer',<br>
+Analgesics are  'Bicalutamide or Casodex',<br>
+Treatment scans are 'Radiation therapy or prostatectomy',<br>
+Follow this diet 'Veggies and fruits and low in meat'<br>
+.
+Ap ki alaamat hain : peshab me dard, chotay peshab me dard,Anzaal     --><br>
+Tashkhees : 'Prostate Cancer',<br>
+Adwiyat: 'Casodex, Bicalutamide',<br>
+ Ilaj: 'Radio Therapy , prostatectomy',<br>
+Khoraak : 'Phal or Sabzi ka ziada Istemaal'<br>
+
+
+.
+
+Your symptoms are difficulty breathing, shortness of breath, chest pain or pressureloss of speech or movement--><br>
+Predicted disease is Corona Virus -------><br>
+It is a major disease so please consult your doctor<br>
+.
+Ap ki alaamat hain : Sans ki rukawat, sans me dushwari, seenay me dard, khaansi or bukhar, taste khatam hona, soonghnay ki his khatam hona, gallay ki sozish , gallay ki kharaash     --><br>
+Tashkhees : 'Corona Virus',<br>
+Adwiyat: 'Regular Paracetamol',<br>
+ Ilaj: 'incubulator, quarantine, vaccination',<br>
+Khoraak : 'phal or sabziyon ka istemaal ziada kren'<br>
+
+.
+
+Your symptoms are Nausea, vomiting, Rash ,Aches and pains (eye pain, typically behind the eyes, muscle, joint, or bone pain),Any warning sign--><br>
+Predicted disease is Dengue Fever -------><br>
+Analgesics   'you should use pain relievers with acetaminophen and avoid medicines with aspirin, which could worsen bleeding',<br>
+
+Follow this diet 'Use plenty of fluids'<br>
+.
+Ap ki alaamat hain : matli, ulti, rash, ankhon k pechay dard, pathon ka dard<br>
+Tashkhees : 'Dengue ka BUkhaar',<br>
+Adwiyat: 'Pain releiver ka istemal acetaminophen or aspirin ka istemal mt kijiye',<br>
+Khoraak : 'ziada se ziada mashroobaat ka istemal'<br>
+.
+Your symptoms are aching in bones , body cramps, muscle twitching or spasms, dizziness, confusion , numbness , seizures<br>
+Predicted disease is Vitamin D Deficiency -------><br>
+Analgesics   'Encapsulations Vitamin D3 (Vegan) Liquid, Nordic Naturals Zero Sugar Vitamin D3 Gummies 1,000 IU.,Thorne Vitamin D/K2' ,<br>
+
+Follow this diet 'cow's milk, soy milk, orange juice, cereals, and oatmeal'<br>
+.
+
+Ap ki alaamat hain : hadiyon ka dard, jism ka dard, pathon me maror or khichao, uljhan, behisi, doray <br>
+Tashkhees : 'Vitamin D ki kammi',<br>
+Adwiyat: 'Encapsulations Vitamin D3 (Vegan) Liquid, Nordic Naturals Zero Sugar Vitamin D3 Gummies 1,000 IU.,Thorne Vitamin D/K2',<br>
+Khoraak : 'doodh, santaray ka juice,dudh ki bani chezon ka istemal'<br>
+.
+
